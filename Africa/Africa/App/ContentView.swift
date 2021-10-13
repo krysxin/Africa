@@ -22,9 +22,11 @@ struct ContentView: View {
                     .listRowInsets(EdgeInsets(top: 0, leading: 0, bottom: 0, trailing: 0))
                 
                 ForEach(animals) { animal in
-                    AnimalListItemView(animal: animal)
-                }
-                
+                    NavigationLink(destination: AnimalDataView(animal: animal)){
+                        AnimalListItemView(animal: animal)
+                    } //: LINK
+                    
+                } //: LOOP
             } //: LIST
             .navigationBarTitle("Africa", displayMode: .large)
         } //: NAVIGATION
