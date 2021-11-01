@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C48C8B8272FA412009A2001 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C48C8B7272FA412009A2001 /* LocationModel.swift */; };
 		9C6EDC3C2724701600CFD844 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6EDC3B2724701600CFD844 /* VideoPlayerView.swift */; };
 		9C6EDC3F2724721400CFD844 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6EDC3E2724721400CFD844 /* VideoPlayerHelper.swift */; };
 		9C74FBA427021E58003DD4A5 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C74FBA327021E58003DD4A5 /* AfricaApp.swift */; };
@@ -47,6 +48,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C48C8B7272FA412009A2001 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		9C6EDC3B2724701600CFD844 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
 		9C6EDC3E2724721400CFD844 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		9C74FBA027021E58003DD4A5 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -212,6 +214,7 @@
 				9CD659732714931F0083FFFE /* CoverImageModel.swift */,
 				9CD6597A271549670083FFFE /* AnimalModel.swift */,
 				9C89B998272158C700E30720 /* VideoModel.swift */,
+				9C48C8B7272FA412009A2001 /* LocationModel.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				9CD65968271447E30083FFFE /* VideoListView.swift in Sources */,
 				9C89B999272158C700E30720 /* VideoModel.swift in Sources */,
 				9CD6596C271448370083FFFE /* GalleryView.swift in Sources */,
+				9C48C8B8272FA412009A2001 /* LocationModel.swift in Sources */,
 				9CD659832715595C0083FFFE /* InsetGalleryView.swift in Sources */,
 				9C89B99B2721592500E30720 /* VideoListItemView.swift in Sources */,
 				9CD65977271494B20083FFFE /* CodableBundleExtension.swift in Sources */,
