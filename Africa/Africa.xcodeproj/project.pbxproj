@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C3B51E32737A78B0030EE0F /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3B51E22737A78B0030EE0F /* MotionAnimationView.swift */; };
 		9C48C8B8272FA412009A2001 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C48C8B7272FA412009A2001 /* LocationModel.swift */; };
 		9C48C8BA272FAB45009A2001 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C48C8B9272FAB45009A2001 /* MapAnnotationView.swift */; };
 		9C6EDC3C2724701600CFD844 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C6EDC3B2724701600CFD844 /* VideoPlayerView.swift */; };
@@ -49,6 +50,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C3B51E22737A78B0030EE0F /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		9C48C8B7272FA412009A2001 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		9C48C8B9272FAB45009A2001 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
 		9C6EDC3B2724701600CFD844 /* VideoPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				9C89B99A2721592500E30720 /* VideoListItemView.swift */,
 				9C6EDC3B2724701600CFD844 /* VideoPlayerView.swift */,
 				9C48C8B9272FAB45009A2001 /* MapAnnotationView.swift */,
+				9C3B51E22737A78B0030EE0F /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				9CD659832715595C0083FFFE /* InsetGalleryView.swift in Sources */,
 				9C89B99B2721592500E30720 /* VideoListItemView.swift in Sources */,
 				9CD65977271494B20083FFFE /* CodableBundleExtension.swift in Sources */,
+				9C3B51E32737A78B0030EE0F /* MotionAnimationView.swift in Sources */,
 				9CD659812715575B0083FFFE /* HeadingView.swift in Sources */,
 				9C6EDC3C2724701600CFD844 /* VideoPlayerView.swift in Sources */,
 			);
